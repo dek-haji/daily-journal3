@@ -1,0 +1,43 @@
+body{
+    display: flex;
+    flex-direction: column;
+    background-color: black
+    
+}
+h1{
+    text-align: center;
+    color: brown;
+    font-family: "Comic Sans MS", cursive, sans-serif
+}
+fieldset{
+    color: white;
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    padding: 10px;
+    margin: 10px;
+    border-color: white
+}
+.daily{
+    color: white;
+    border-bottom: 1px solid grey;
+    width: 30%;
+    font-family: "Lucida Console", Monaco, monospace;
+    padding: 30px;
+    margin: 30px
+    
+}
+#entry{
+   background-color: lightgray; 
+  height: 100px;
+  width: 300px;
+  border-radius: 20px;
+  box-shadow: 20px black
+}
+#concepts{
+    height: 50px;
+    width: 200px;
+    border-radius: 20px;
+  box-shadow: 20px black
+}
+

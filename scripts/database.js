@@ -16,10 +16,10 @@ fetch("http://localhost:3000/dailyJournals") // Fetch from the API
         btn.addEventListener("click",()=> {
             dom.innerHTML += `
             <div class= "daily">
+            <p> ${entry.date} </p>
             <h2> ${entry.concepts} </h2>
             <h5> ${entry.entry} </h5>
             <p> ${entry.mood} </p>
-           <p> ${entry.date} </p>
             </div>
             `
         }
