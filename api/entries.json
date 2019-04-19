@@ -1,0 +1,18 @@
+{
+    "dailyJournals" : [
+    {
+        "concepts": "Array methods",
+        "date": "04/18/2019",
+        "entry": "we learned about array methods, but only forEach made sense",
+        "mood": "awesome"
+    },
+    {
+        
+            "concepts": "Functions and logics",
+            "date": "04/16/2019",
+            "entry": "today we learned about functions and how the logics works, so excited to know more",
+            "mood": "very good"
+        
+    }
+]
+}
