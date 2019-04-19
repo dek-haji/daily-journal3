@@ -16,6 +16,17 @@ fieldset{
     margin: 10px;
     border-color: bisque
 }
-.journals{
-    color: bisque
+.daily{
+    color: bisque;
+    border-bottom: 1px solid grey;
+    width: 30%;
+    
+}
+#entry{
+    size: 40%
+}
+#main{
+    display: flex;
+    justify-content: center;
+    flex-direction: column
 }
